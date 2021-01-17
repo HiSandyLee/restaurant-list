@@ -5,8 +5,8 @@
 
 
 ## 環境建置與需求
-* 1.Node.js
-* 2.Visual Studio Code
+1.Node.js
+1.Visual Studio Code
 * 3.Express
 * 4.Express-Handlebars 
 
