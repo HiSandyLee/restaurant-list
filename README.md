@@ -7,24 +7,34 @@
 * 1.Node.js
 
 ## 安裝與執行步驟
+
 1. 打開終端機，進入此專案的資料夾中
+
 ```shell
 cd restaurant_list
 ```
+
 2. 透過 npm 安裝 Express
-```
+
+```shell
 npm install express 
 ```
+
 3. 安裝 
-```
+
+```shell
 npm install -g nodemon
 ```
+
 4. 使用 nodemon 啟動 Express 的專案
-```
+
+```shell
 nodemon app.js
 ```
+
 5. 若終端機跳出以下網址代表成功
-```
+
+```shell
 http://localhost:3000.
 ```
 
